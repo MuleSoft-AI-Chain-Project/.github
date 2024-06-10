@@ -1,6 +1,6 @@
 <div align = center>
 
-<img src="https://github.com/MuleChain-Project/.github/blob/main/profile/assets/mulechain_logo.svg" width="300" height="300" alt="banner">
+<img src="https://github.com/MuleChain-Project/.github/blob/main/profile/assets/mulechain_logo.png" width="200" height="200" alt="banner">
 
 <br>
 
