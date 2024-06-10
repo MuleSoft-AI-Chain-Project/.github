@@ -4,19 +4,19 @@
 
 Welcome to **MuleChain** - your gateway to integrating advanced AI capabilities into the MuleSoft ecosystem! Discover our projects, explore best practices, and join our thriving community.
 
----
-
-Our Main Repositories
-
-**[<kbd> <br> MuleChain Connector <br> </kbd>][Install]** 
-**[<kbd> <br> MuleChain Agent Static <br> </kbd>][AgentStatic]** 
-**[<kbd> <br> MuleChain Agent NextJs <br> </kbd>][AgentNextJs]** 
-
----
-
 <br>
 
+[![Badge License]][License]
+
 </div>
+
+## Our Main Repositories
+
+| Link | Description |
+|------------|-------------|
+| **[MuleChain Connector](https://github.com/mulechain/MuleChain-Connector)** | The main connector for integrating LangChain4j capabilities into MuleSoft. |
+| **[MuleChain Agent Static](https://github.com/mulechain/MuleChain-Agent-Static)** | Static agent for handling AI operations. |
+| **[MuleChain Agent NextJs](https://github.com/mulechain/MuleChain-Agent-NextJs)** | Next.js-based agent for advanced AI functionalities. |
 
 ## 📚 What We Offer
 
@@ -72,9 +72,6 @@ We're always on the lookout for contributors. If you have a MuleSoft story to te
 [AgentNextJs]: https://github.com/mboss37/mulechain-agent
 [License]: LICENSE
 
+<!----------------------------------{ Badges }--------------------------------->
 
-[Badge Issues]: ""
-[Badge Pull Requests]: ""
-[Badge Language]: ""
-[Badge License]: ""
-[Badge Lines]: ""
+[Badge License]: https://img.shields.io/github/license/MuleChain-Project/.github
