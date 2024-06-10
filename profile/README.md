@@ -21,7 +21,6 @@ Welcome to **MuleChain** - your gateway to integrating advanced AI capabilities 
 ## 📚 What We Offer
 
 - **Weekly Blog Posts**: Stay informed with our weekly blog posts covering MuleSoft development, best practices, and the latest trends in AI integration.
-- **DevOps Insights**: Master the art of DevOps with our in-depth articles and guides, tailored for MuleSoft professionals.
 - **Community Engagement**: Join our discussions, share your insights, and learn from fellow MuleSoft and AI enthusiasts.
 
 ## 🤝 Connect With Us
