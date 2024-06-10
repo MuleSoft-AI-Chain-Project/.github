@@ -28,7 +28,7 @@ Welcome to **MuleChain** - your gateway to integrating advanced AI capabilities 
 - **LinkedIn Group**: [Join our LinkedIn Group](https://lnkd.in/gW3eZrbF)
 - **YouTube Playlist**: [Subscribe to our YouTube Playlist](https://lnkd.in/eYs3MZZz)
 
-## 🖋 About the Authors
+## 🖋 Meet the Team
 
 | Author         | Description                                                                                                                                                                     | LinkedIn                                              | GitHub                                   |
 | -------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ----------------------------------------------------- | ---------------------------------------- |
