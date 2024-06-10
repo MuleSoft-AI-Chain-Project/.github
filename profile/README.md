@@ -4,7 +4,6 @@
 
 <br>
 [![Badge License]][License]
-![Badge Language]
 [![Badge Pull Requests]][Pull Requests]
 [![Badge Issues]][Issues]
 <br>
@@ -72,7 +71,7 @@ Our flagship project integrates LangChain4j capabilities into MuleSoft, allowing
 
 We're always on the lookout for contributors. If you have a MuleSoft story to tell, a best practice to share, or a tutorial to teach, consider writing for MuleChain! Check out our [Contributor's Guide](#) for more information.
 
-<!----------------------------------------------------------------------------->
+<!----------------------------------{ Links }--------------------------------->
 
 [Configure]: ""
 [Stars]: ""
@@ -83,13 +82,6 @@ We're always on the lookout for contributors. If you have a MuleSoft story to te
 [Quick Start]: ""
 [License]: LICENSE
 
-<!----------------------------------{ Images }--------------------------------->
-
-[Preview A]: ""
-[Preview B]: ""
-[Preview C]: ""
-
-<!----------------------------------{ Badges }--------------------------------->
 
 [Badge Issues]: ""
 [Badge Pull Requests]: ""
