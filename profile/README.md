@@ -18,24 +18,6 @@ Welcome to **MuleChain** - your gateway to integrating advanced AI capabilities 
 | **[MuleChain Agent Static](https://github.com/mulechain/MuleChain-Agent-Static)** | Static agent for handling AI operations. |
 | **[MuleChain Agent NextJs](https://github.com/mulechain/MuleChain-Agent-NextJs)** | Next.js-based agent for advanced AI functionalities. |
 
-## 📚 What We Offer
-
-- **Weekly Blog Posts**: Stay informed with our weekly blog posts covering MuleSoft development, best practices, and the latest trends in AI integration.
-- **Community Engagement**: Join our discussions, share your insights, and learn from fellow MuleSoft and AI enthusiasts.
-
-## 🤝 Connect With Us
-
-- **LinkedIn Group**: [Join our LinkedIn Group](https://lnkd.in/gW3eZrbF)
-- **YouTube Playlist**: [Subscribe to our YouTube Playlist](https://lnkd.in/eYs3MZZz)
-
-## 🖋 Meet the Team
-
-| Author         | Description                                                                                                                                                                     | LinkedIn                                              | GitHub                                   |
-| -------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ----------------------------------------------------- | ---------------------------------------- |
-| Ajay Rana      | Developer with extensive experience in MuleSoft and AI integration. Ajay's innovative approaches and technical expertise drive the MuleChain projects forward.                  | [🔗 LinkedIn](https://www.linkedin.com/in/ajayrana)   | [🔗 GitHub](https://github.com/ajayrana) |
-| Mihael Bosnjak | A passionate Technical Architect focused on creating robust AI solutions within the MuleSoft ecosystem. Mihael's insights into system architecture ensure seamless integration. | [🔗 LinkedIn](https://www.linkedin.com/in/mihaelbos/) | [🔗 GitHub](https://github.com/mboss37)  |
-| Amir Khan      | Advisor & Developer with a strong background in AI and MuleSoft development. Amir's strategic guidance and development skills are crucial to the success of MuleChain.          | [🔗 LinkedIn](https://www.linkedin.com/in/amirkhan)   | [🔗 GitHub](https://github.com/amirkhan) |
-
 ## About Us
 
 Inspired by LangChain4j, MuleChain leverages the power of MuleSoft to provide seamless integration of AI Agents into the Anypoint Platform. Our mission is to enable MuleSoft users to easily design, build, and manage AI-driven solutions with minimal effort.
@@ -58,6 +40,19 @@ Our flagship project integrates LangChain4j capabilities into MuleSoft, allowing
 - **AI Agent Monitoring:** Leveraging Anypoint Monitoring and Visualizer.
 - **Low Code Development:** Supported by Anypoint Studio and Anypoint Code Builder.
 - **Unit Testing:** Integrated MUnit framework for robust testing.
+
+## 🖋 Meet the Team
+
+| Author         | Description                                                                                                                                                                     | LinkedIn                                              | GitHub                                   |
+| -------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ----------------------------------------------------- | ---------------------------------------- |
+| Ajay Rana      | Developer with extensive experience in MuleSoft and AI integration. Ajay's innovative approaches and technical expertise drive the MuleChain projects forward.                  | [🔗 LinkedIn](https://www.linkedin.com/in/ajayrana)   | [🔗 GitHub](https://github.com/ajayrana) |
+| Mihael Bosnjak | A passionate Technical Architect focused on creating robust AI solutions within the MuleSoft ecosystem. Mihael's insights into system architecture ensure seamless integration. | [🔗 LinkedIn](https://www.linkedin.com/in/mihaelbos/) | [🔗 GitHub](https://github.com/mboss37)  |
+| Amir Khan      | Advisor & Developer with a strong background in AI and MuleSoft development. Amir's strategic guidance and development skills are crucial to the success of MuleChain.          | [🔗 LinkedIn](https://www.linkedin.com/in/amirkhan)   | [🔗 GitHub](https://github.com/amirkhan) |
+
+## 🤝 Connect With Us
+
+- **LinkedIn Group**: [Join our LinkedIn Group](https://lnkd.in/gW3eZrbF)
+- **YouTube Playlist**: [Subscribe to our YouTube Playlist](https://lnkd.in/eYs3MZZz)
 
 ## 🤖 Contribute
 
