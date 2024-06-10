@@ -2,22 +2,15 @@
 
 <img src="https://github.com/MuleChain-Project/.github/blob/main/profile/assets/mulechain_logo.png" width="200" height="200" alt="banner">
 
-<br>
-[![Badge License]][License]
-[![Badge Pull Requests]][Pull Requests]
-[![Badge Issues]][Issues]
-<br>
-
 Welcome to **MuleChain** - your gateway to integrating advanced AI capabilities into the MuleSoft ecosystem! Discover our projects, explore best practices, and join our thriving community.
-
-<br>
 
 ---
 
-**[<kbd> <br> Install <br> </kbd>][Install]** 
-**[<kbd> <br> Quick Start <br> </kbd>][Quick Start]** 
-**[<kbd> <br> Configure <br> </kbd>][Configure]** 
-**[<kbd> <br> Contribute <br> </kbd>][Contribute]**
+Our Main Repositories
+
+**[<kbd> <br> MuleChain Connector <br> </kbd>][Install]** 
+**[<kbd> <br> MuleChain Agent Static <br> </kbd>][AgentStatic]** 
+**[<kbd> <br> MuleChain Agent NextJs <br> </kbd>][AgentNextJs]** 
 
 ---
 
@@ -73,13 +66,10 @@ We're always on the lookout for contributors. If you have a MuleSoft story to te
 
 <!----------------------------------{ Links }--------------------------------->
 
-[Configure]: ""
-[Stars]: ""
-[Pull Requests]: ""
-[Issues]: ""
-[Contribute]: ""
-[Install]: ""
-[Quick Start]: ""
+
+[Install]: https://github.com/amirkhan-ak-sf/langchain4mule/tree/master
+[AgentStatic]: https://github.com/amirkhan-ak-sf/mulechain-agent
+[AgentNextJs]: https://github.com/mboss37/mulechain-agent
 [License]: LICENSE
 
 
