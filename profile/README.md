@@ -1,4 +1,35 @@
-![MuleChain Banner](https://github.com/MuleChain-Project/.github/blob/main/profile/assets/mulechain_logo.png)
+<div align = center>
+
+<img src="https://github.com/MuleChain-Project/.github/blob/main/profile/assets/mulechain_logo.svg" width="750" height="300" alt="banner">
+
+<br>
+
+[![Badge License]][License]
+![Badge Language]
+[![Badge Pull Requests]][Pull Requests]
+[![Badge Issues]][Issues]
+
+<br>
+
+Hyprland is a dynamic tiling Wayland compositor based on wlroots that doesn't sacrifice on its looks.
+
+It provides the latest Wayland features, is highly customizable, has all the eyecandy, the most powerful plugins,
+easy IPC, much more QoL stuff than other wlr-based compositors and more...
+<br>
+<br>
+
+---
+
+**[<kbd> <br> Install <br> </kbd>][Install]** 
+**[<kbd> <br> Quick Start <br> </kbd>][Quick Start]** 
+**[<kbd> <br> Configure <br> </kbd>][Configure]** 
+**[<kbd> <br> Contribute <br> </kbd>][Contribute]**
+
+---
+
+<br>
+
+</div>
 
 Welcome to **MuleChain** - your gateway to integrating advanced AI capabilities into the MuleSoft ecosystem! Discover our projects, explore best practices, and join our thriving community.
 
@@ -48,6 +79,27 @@ Our flagship project integrates LangChain4j capabilities into MuleSoft, allowing
 
 We're always on the lookout for contributors. If you have a MuleSoft story to tell, a best practice to share, or a tutorial to teach, consider writing for MuleChain! Check out our [Contributor's Guide](#) for more information.
 
----
+<!----------------------------------------------------------------------------->
 
-🔗 [MuleChain Blog](#)
+[Configure]: ""
+[Stars]: ""
+[Pull Requests]: ""
+[Issues]: ""
+[Contribute]: ""
+[Install]: ""
+[Quick Start]: ""
+[License]: LICENSE
+
+<!----------------------------------{ Images }--------------------------------->
+
+[Preview A]: ""
+[Preview B]: ""
+[Preview C]: ""
+
+<!----------------------------------{ Badges }--------------------------------->
+
+[Badge Issues]: ""
+[Badge Pull Requests]: ""
+[Badge Language]: ""
+[Badge License]: ""
+[Badge Lines]: ""
