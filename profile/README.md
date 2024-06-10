@@ -3,19 +3,14 @@
 <img src="https://github.com/MuleChain-Project/.github/blob/main/profile/assets/mulechain_logo.png" width="200" height="200" alt="banner">
 
 <br>
-
 [![Badge License]][License]
 ![Badge Language]
 [![Badge Pull Requests]][Pull Requests]
 [![Badge Issues]][Issues]
-
 <br>
 
-Hyprland is a dynamic tiling Wayland compositor based on wlroots that doesn't sacrifice on its looks.
+Welcome to **MuleChain** - your gateway to integrating advanced AI capabilities into the MuleSoft ecosystem! Discover our projects, explore best practices, and join our thriving community.
 
-It provides the latest Wayland features, is highly customizable, has all the eyecandy, the most powerful plugins,
-easy IPC, much more QoL stuff than other wlr-based compositors and more...
-<br>
 <br>
 
 ---
@@ -30,8 +25,6 @@ easy IPC, much more QoL stuff than other wlr-based compositors and more...
 <br>
 
 </div>
-
-Welcome to **MuleChain** - your gateway to integrating advanced AI capabilities into the MuleSoft ecosystem! Discover our projects, explore best practices, and join our thriving community.
 
 ## 📚 What We Offer
 
