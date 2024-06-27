@@ -57,7 +57,7 @@ Our flagship project integrates LangChain4j capabilities into MuleSoft, allowing
 
 ## 🤖 Contribute
 
-We're always on the lookout for contributors. If you have a MuleSoft story to tell, a best practice to share, or a tutorial to teach, consider writing for MuleChain! Check out our [Contributor's Guide](#) for more information.
+We're always on the lookout for contributors. If you have a MuleSoft story to tell, a best practice to share, or a tutorial to teach, consider writing for MuleChain! Check out our [Contributor's Guide](https://mulechain.ai/docs/contribute) for more information.
 
 <!----------------------------------{ Links }--------------------------------->
 
