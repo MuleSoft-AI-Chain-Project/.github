@@ -15,7 +15,7 @@ Welcome to **MuleChain** - your gateway to integrating advanced AI capabilities 
 | Link | Description |
 |------------|-------------|
 | **MuleChain Connector** (Link coming soon) | The main connector for integrating LangChain4j capabilities into MuleSoft. |
-| **[MuleChain Simple Chatbot]([https://github.com/mulechain/MuleChain-Agent-Static](https://github.com/MuleChain-Project/mulechain-simple-chatbot))** | Static agent for handling AI operations. |
+| **[MuleChain Simple Chatbot](https://github.com/MuleChain-Project/mulechain-simple-chatbot))** | Static agent for handling AI operations. |
 | **[MuleChain NextJs Chatbot](https://github.com/MuleChain-Project/mulechain-chatbot)** | Next.js-based agent for advanced AI functionalities. |
 | **MuleChain Example Applications** (Link coming soon)** | Example MuleSoft applications |
 
