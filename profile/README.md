@@ -49,6 +49,7 @@ Our flagship project integrates LangChain4j capabilities into MuleSoft, allowing
 | Ajay Rana      | Developer with extensive experience in MuleSoft and AI integration. Ajay's innovative approaches and technical expertise drive the MuleChain projects forward.                  | [🔗 LinkedIn](https://www.linkedin.com/in/ajayrana)   | [🔗 GitHub](https://github.com/ajayrana) |
 | Mihael Bosnjak | A passionate Technical Architect focused on creating robust AI solutions within the MuleSoft ecosystem. Mihael's insights into system architecture ensure seamless integration. | [🔗 LinkedIn](https://www.linkedin.com/in/mihaelbos/) | [🔗 GitHub](https://github.com/mboss37)  |
 | Amir Khan      | Advisor & Developer with a strong background in AI and MuleSoft development. Amir's strategic guidance and development skills are crucial to the success of MuleChain.          | [🔗 LinkedIn](https://www.linkedin.com/in/amirkhan)   | [🔗 GitHub](https://github.com/amirkhan) |
+| Vibhor Sharma  | Enterprise Integration SME   | [🔗 LinkedIn](https://www.linkedin.com/in/svibhors/)   | [🔗 GitHub](https://github.com/vibhor-sharma-s) |
 
 ## 🤝 Connect With Us
 
