@@ -1,6 +1,8 @@
 <div align = center>
 
+<br>
 <img src="https://github.com/MuleChain-Project/.github/blob/main/profile/assets/mulechain-project-logo.png" width="200" alt="banner">
+<br>
 
 Welcome to **MuleChain** - your gateway to integrating advanced AI capabilities into the MuleSoft ecosystem! Discover our projects, explore best practices, and join our thriving community.
 
