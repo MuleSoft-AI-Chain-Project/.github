@@ -68,7 +68,7 @@ We're always on the lookout for contributors. If you have a MuleSoft story to te
 [Install]: https://github.com/amirkhan-ak-sf/langchain4mule/tree/master
 [AgentStatic]: https://github.com/amirkhan-ak-sf/mulechain-agent
 [AgentNextJs]: https://github.com/mboss37/mulechain-agent
-[License]: LICENSE
+[License]: https://github.com/MuleChain-Project/.github/blob/main/LICENSE
 
 <!----------------------------------{ Badges }--------------------------------->
 
