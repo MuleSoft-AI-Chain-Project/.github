@@ -56,7 +56,7 @@ Our flagship project integrates LangChain4j capabilities into MuleSoft, allowing
 ## 🤝 Connect With Us
 
 - **LinkedIn Group**: [Join our LinkedIn Group](https://lnkd.in/gW3eZrbF)
-- **YouTube Playlist**: [Subscribe to our YouTube Playlist](https://lnkd.in/eYs3MZZz)
+- **YouTube Playlist**: [Subscribe to our YouTube Playlist](https://www.youtube.com/watch?v=M2WdsXceFSc&list=PLz4dNaMPHvpEwXovTuNtW4L11ngBE7ZmA)
 
 ## 🤖 Contribute
 
