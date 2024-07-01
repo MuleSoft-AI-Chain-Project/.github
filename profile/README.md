@@ -72,4 +72,4 @@ We're always on the lookout for contributors. If you have a MuleSoft story to te
 
 <!----------------------------------{ Badges }--------------------------------->
 
-[Badge License]: https://img.shields.io/github/license/MuleChain-Project/.github
+[Badge License]: https://img.shields.io/github/license/MuleChain-Project/.github](https://github.com/MuleChain-Project/.github/blob/main/LICENSE
