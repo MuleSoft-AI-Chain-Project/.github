@@ -52,7 +52,7 @@ Our flagship project integrates LangChain4j capabilities into MuleSoft, allowing
 | Mihael Bosnjak | A passionate Technical Architect focused on creating robust AI solutions within the MuleSoft ecosystem. Mihael's insights into system architecture ensure seamless integration. | [🔗 LinkedIn](https://www.linkedin.com/in/mihaelbos/) | [🔗 GitHub](https://github.com/mboss37)  |
 | Vibhor Sharma  | Enterprise Integration SME   | [🔗 LinkedIn](https://www.linkedin.com/in/svibhors/)   | [🔗 GitHub](https://github.com/vibhor-sharma-s) |
 | Burak Tas | A passionate Solution Engineer responsible for creating MuleChain Demos, Tutorial and Use Cases. | [🔗 LinkedIn](https://www.linkedin.com/in/tasbura/) | [🔗 GitHub](https://github.com/burak-tas)  |
-| Jonathan Chen | A passionate Solution Engineer responsible for creating MuleChain Demos, Tutorial and Use Cases. | [🔗 LinkedIn](https://www.linkedin.com/in/jonathanjianxiongchen/) | [🔗 GitHub](https://github.com/MuleChain-Project)  |
+| Jonathan Chen | A passionate Solution Engineer responsible for creating MuleChain Demos, Tutorial and Use Cases. | [🔗 LinkedIn](https://www.linkedin.com/in/jonathanjianxiongchen/) | [🔗 GitHub](https://github.com/jchen-sf)  |
 | Amir Khan      | Advisor & Developer with a strong background in AI and MuleSoft development. Amir's strategic guidance and development skills are crucial to the success of MuleChain.          | [🔗 LinkedIn](https://www.linkedin.com/in/amirkhan)   | [🔗 GitHub](https://github.com/amirkhan) |
 
 ## 🤝 Connect With Us
