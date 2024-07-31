@@ -57,6 +57,7 @@ Our flagship project integrates LangChain4j capabilities into MuleSoft, allowing
 | Jonathan Chen | A passionate Solution Engineer responsible for creating MuleChain Demos, Tutorial and Use Cases. | [🔗 LinkedIn](https://www.linkedin.com/in/jonathanjianxiongchen/) | [🔗 GitHub](https://github.com/jchen-sf)  |
 | Viktoriya Kotik | A passionate Solution Engineer responsible for public-facing messaging and content. | [🔗 LinkedIn](https://www.linkedin.com/in/viktoriya-kotik/)) |
 | Laura de Paz | A passionate Solution Engineer responsible for creating MuleChain Demos, Tutorial and Use Cases. | [🔗 LinkedIn](https://www.linkedin.com/in/laura-de-paz/)) | [🔗 GitHub](https://github.com/laurapcc)  |
+| Ahmed-Jibril Ait ouaret | A passionate Platform Solution Engineer and Developer, he participates in the development, creation of demos, tutorials and use cases MuleChain. | [🔗 LinkedIn](https://www.linkedin.com/in/aj-aitouaret/)   | [🔗 GitHub](https://github.com/AhmJibDev) |
 | Amir Khan      | Advisor & Developer with a strong background in AI and MuleSoft development. Amir's strategic guidance and development skills are crucial to the success of MuleChain.          | [🔗 LinkedIn](https://www.linkedin.com/in/amirkhan)   | [🔗 GitHub](https://github.com/amirkhan) |
 
 ## 🤝 Connect With Us
