@@ -60,7 +60,7 @@ Our flagship project integrates LangChain4j capabilities into MuleSoft, allowing
 | Ahmed-Jibril Ait ouaret | A passionate Platform Solution Engineer and Developer, he participates in the development, creation of demos, tutorials and use cases MuleChain. | [🔗 LinkedIn](https://www.linkedin.com/in/aj-aitouaret/)   | [🔗 GitHub](https://github.com/AhmJibDev) |
 | Dipesh Dutta | Experienced with a demonstrated history of working in the cloud and payment industry. Skilled in Kafka Zookeeper, Spring boot, Requirements Analysis, Java C++.  | [🔗 LinkedIn](https://www.linkedin.com/in/dipeshdutta/)   | [🔗 GitHub](https://github.com/dipeshkumardutta-sfemu) |
 | Arpit Gupta | A passionate Java Developer with extensive Maven experience. Skilled in problem solving and code management, etc. | [🔗 LinkedIn](https://www.linkedin.com/in/arpinster/)   | [🔗 GitHub](https://github.com/arpitg-1) |
-| Amir Khan      | Advisor & Developer with a strong background in AI and MuleSoft development. Amir's strategic guidance and development skills are crucial to the success of MuleChain.          | [🔗 LinkedIn](https://www.linkedin.com/in/amirkhan)   | [🔗 GitHub](https://github.com/amirkhan) |
+| Amir Khan      | Advisor & Developer with a strong background in AI and MuleSoft development. Amir's strategic guidance and development skills are crucial to the success of the MuleChain Project.          | [🔗 LinkedIn](https://www.linkedin.com/in/amirkhan)   | [🔗 GitHub](https://github.com/amirkhan) |
 
 ## 🤝 Connect With Us
 
