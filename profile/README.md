@@ -18,7 +18,7 @@ Welcome to **MuleChain** - your gateway to integrating advanced AI capabilities 
 |------------|-------------|
 | **[MuleChain AI Connector](https://github.com/MuleChain-Project/mulechain-ai-connector)** | The MuleChain AI connector for integrating LangChain4j capabilities into MuleSoft. |
 | **[MuleChain Einstein AI Connector](https://github.com/MuleChain-Project/mulechain-einstein1-connector)** | The MuleChain Einstein AI connector for integrating Salesforce Einstein Trust Layer and Models capabilities into MuleSoft. |
-| **[MuleChain Vectors Connector]([https://github.com/MuleChain-Project/mulechain-vectors](https://github.com/MuleChain-Project/mulechain-vectors))** | The MuleChain Vectors connector for connecting to Vector Databases. |
+| **[MuleChain Vectors Connector](https://github.com/MuleChain-Project/mulechain-vectors)** | The MuleChain Vectors connector for connecting to Vector Databases. |
 | **[MuleChain Simple Chatbot](https://github.com/MuleChain-Project/mulechain-simple-chatbot)** | Static agent for handling AI operations. |
 | **[MuleChain NextJs Chatbot](https://github.com/MuleChain-Project/mulechain-chatbot)** | Next.js-based agent for advanced AI functionalities. |
 | **[MuleChain Example Applications](https://github.com/MuleChain-Project/example-mule-apps)** | Example MuleSoft applications |
