@@ -4,7 +4,7 @@
 <img src="https://github.com/MuleChain-Project/.github/blob/main/profile/assets/mulechain-project-logo.png" width="200" alt="banner">
 <br>
 
-Welcome to **MuleChain** - your gateway to integrating advanced AI capabilities into the MuleSoft ecosystem! Discover our projects, explore best practices, and join our thriving community.
+Welcome to **MuleSoft AI Chain (MAC) Project** - your gateway to integrating advanced AI capabilities into the MuleSoft ecosystem! Discover our projects, explore best practices, and join our thriving community.
 
 <br>
 
@@ -16,20 +16,20 @@ Welcome to **MuleChain** - your gateway to integrating advanced AI capabilities 
 
 | Link | Description |
 |------------|-------------|
-| **[MuleChain AI Connector](https://github.com/MuleChain-Project/mulechain-ai-connector)** | The MuleChain AI connector for integrating LangChain4j capabilities into MuleSoft. |
-| **[MuleChain Einstein AI Connector](https://github.com/MuleChain-Project/mulechain-einstein1-connector)** | The MuleChain Einstein AI connector for integrating Salesforce Einstein Trust Layer and Models capabilities into MuleSoft. |
-| **[MuleChain Vectors Connector](https://github.com/MuleChain-Project/mulechain-vectors)** | The MuleChain Vectors connector for connecting to Vector Databases. |
-| **[MuleChain Simple Chatbot](https://github.com/MuleChain-Project/mulechain-simple-chatbot)** | Static agent for handling AI operations. |
-| **[MuleChain NextJs Chatbot](https://github.com/MuleChain-Project/mulechain-chatbot)** | Next.js-based agent for advanced AI functionalities. |
-| **[MuleChain Example Applications](https://github.com/MuleChain-Project/example-mule-apps)** | Example MuleSoft applications |
+| **[MuleSoft AI Chain Connector](https://github.com/MuleChain-Project/mulechain-ai-connector)** | The MuleSoft AI Chain connector for integrating LangChain4j capabilities into MuleSoft. |
+| **[MAC Einstein Connector](https://github.com/MuleChain-Project/mulechain-einstein1-connector)** | The MAC Einstein AI connector for integrating Salesforce Einstein Trust Layer and Models capabilities into MuleSoft. |
+| **[MAC Vectors Connector](https://github.com/MuleChain-Project/mulechain-vectors)** | The MAC Vectors connector for connecting to Vector Databases. |
+| **[MAC Simple Chatbot](https://github.com/MuleChain-Project/mulechain-simple-chatbot)** | Static agent for handling AI operations. |
+| **[MAC NextJs Chatbot](https://github.com/MuleChain-Project/mulechain-chatbot)** | Next.js-based agent for advanced AI functionalities. |
+| **[MAC Example Applications](https://github.com/MuleChain-Project/example-mule-apps)** | Example MuleSoft applications |
 
 ## About Us
 
-Inspired by LangChain4j, MuleChain leverages the power of MuleSoft to provide seamless integration of AI Agents into the Anypoint Platform. Our mission is to enable MuleSoft users to easily design, build, and manage AI-driven solutions with minimal effort.
+Inspired by LangChain4j, MuleSoft AI Chain leverages the power of MuleSoft to provide seamless integration of AI Agents into the Anypoint Platform. Our mission is to enable MuleSoft users to easily design, build, and manage AI-driven solutions with minimal effort.
 
 ## Our Projects
 
-### MuleChain Connector for MuleSoft
+### MAC Project Connectors for MuleSoft
 
 Our flagship project integrates LangChain4j capabilities into MuleSoft, allowing for:
 
@@ -61,7 +61,7 @@ Our flagship project integrates LangChain4j capabilities into MuleSoft, allowing
 | Ahmed-Jibril Ait ouaret | A passionate Platform Solution Engineer and Developer, he participates in the development, creation of demos, tutorials and use cases MuleChain. | [🔗 LinkedIn](https://www.linkedin.com/in/aj-aitouaret/)   | [🔗 GitHub](https://github.com/AhmJibDev) |
 | Dipesh Dutta | Experienced with a demonstrated history of working in the cloud and payment industry. Skilled in Kafka Zookeeper, Spring boot, Requirements Analysis, Java C++.  | [🔗 LinkedIn](https://www.linkedin.com/in/dipeshdutta/)   | [🔗 GitHub](https://github.com/dipeshkumardutta-sfemu) |
 | Arpit Gupta | A passionate Java Developer with extensive Maven experience. Skilled in problem solving and code management, etc. | [🔗 LinkedIn](https://www.linkedin.com/in/arpinster/)   | [🔗 GitHub](https://github.com/arpitg-1) |
-| Amir Khan      | Advisor & Developer with a strong background in AI and MuleSoft development. Amir's strategic guidance and development skills are crucial to the success of the MuleChain Project.          | [🔗 LinkedIn](https://www.linkedin.com/in/amirkhan)   | [🔗 GitHub](https://github.com/amirkhan) |
+| Amir Khan      | Advisor & Developer with a strong background in AI and MuleSoft development. Amir's strategic guidance and development skills are crucial to the success of the MAC Project.          | [🔗 LinkedIn](https://www.linkedin.com/in/amirkhan)   | [🔗 GitHub](https://github.com/amirkhan) |
 
 ## 🤝 Connect With Us
 
@@ -70,7 +70,7 @@ Our flagship project integrates LangChain4j capabilities into MuleSoft, allowing
 
 ## 🤖 Contribute
 
-We're always on the lookout for contributors. If you have a MuleSoft story to tell, a best practice to share, or a tutorial to teach, consider writing for MuleChain! Check out our [Contributor's Guide](https://mulechain.ai/docs/contribute) for more information.
+We're always on the lookout for contributors. If you have a MuleSoft story to tell, a best practice to share, or a tutorial to teach, consider writing for MAC Project! Check out our [Contributor's Guide](https://mulechain.ai/docs/contribute) for more information.
 
 <!----------------------------------{ Links }--------------------------------->
 
