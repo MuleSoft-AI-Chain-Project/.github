@@ -46,24 +46,9 @@ Our flagship project integrates LangChain4j capabilities into MuleSoft, allowing
 - **Low Code Development:** Supported by Anypoint Studio and Anypoint Code Builder.
 - **Unit Testing:** Integrated MUnit framework for robust testing.
 
-## 🖋 Meet the Team
+## 🖋 [Meet the Team](https://mac-project.ai/about)
 
-| Author         | Description                                                                                                                                                                     | LinkedIn                                              | GitHub                                   |
-| -------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ----------------------------------------------------- | ---------------------------------------- |
-| Ajay Rana      | Developer with extensive experience in MuleSoft and AI integration. Ajay's innovative approaches and technical expertise drive the MuleChain projects forward.                  | [🔗 LinkedIn](https://www.linkedin.com/in/ajay-rana-53b0aa80/)   | [🔗 GitHub](https://github.com/ajayrana) |
-| Mihael Bosnjak | A passionate Technical Architect focused on creating robust AI solutions within the MuleSoft ecosystem. Mihael's insights into system architecture ensure seamless integration. | [🔗 LinkedIn](https://www.linkedin.com/in/mihaelbos/) | [🔗 GitHub](https://github.com/mboss37)  |
-| Vibhor Sharma  | Enterprise Integration SME   | [🔗 LinkedIn](https://www.linkedin.com/in/svibhors/)   | [🔗 GitHub](https://github.com/vibhor-sharma-s) |
-| Damian Scherrer | A passionate Client Solution Engineer focused on creating robust AI solutions within the MuleSoft ecosystem. Damians's insights into system architecture ensure seamless integration. | [🔗 LinkedIn](https://www.linkedin.com/in/damian-scherrer/) | [🔗 GitHub](https://github.com/hansjakobli)  |
-| Burak Tas | A passionate Solution Engineer responsible for creating MuleChain Demos, Tutorial and Use Cases. | [🔗 LinkedIn](https://www.linkedin.com/in/tasbura/) | [🔗 GitHub](https://github.com/burak-tas)  |
-| Jonathan Chen | A passionate Solution Engineer responsible for creating MuleChain Demos, Tutorial and Use Cases. | [🔗 LinkedIn](https://www.linkedin.com/in/jonathanjianxiongchen/) | [🔗 GitHub](https://github.com/jchen-sf)  |
-| Viktoriya Kotik | A passionate Solution Engineer responsible for public-facing messaging and content. | [🔗 LinkedIn](https://www.linkedin.com/in/viktoriya-kotik/)) |
-| Laura de Paz | A passionate Solution Engineer responsible for creating MuleChain Demos, Tutorial and Use Cases. | [🔗 LinkedIn](https://www.linkedin.com/in/laura-de-paz/)) | [🔗 GitHub](https://github.com/laurapcc)  |
-| Ahmed-Jibril Ait ouaret | A passionate Platform Solution Engineer and Developer, he participates in the development, creation of demos, tutorials and use cases MuleChain. | [🔗 LinkedIn](https://www.linkedin.com/in/aj-aitouaret/)   | [🔗 GitHub](https://github.com/AhmJibDev) |
-| Dipesh Dutta | Experienced with a demonstrated history of working in the cloud and payment industry. Skilled in Kafka Zookeeper, Spring boot, Requirements Analysis, Java C++.  | [🔗 LinkedIn](https://www.linkedin.com/in/dipeshdutta/)   | [🔗 GitHub](https://github.com/dipeshkumardutta-sfemu) |
-| Arpit Gupta | A passionate Java Developer with extensive Maven experience. Skilled in problem solving and code management, etc. | [🔗 LinkedIn](https://www.linkedin.com/in/arpinster/)   | [🔗 GitHub](https://github.com/arpitg-1) |
-| Amir Khan      | Advisor & Developer with a strong background in AI and MuleSoft development. Amir's strategic guidance and development skills are crucial to the success of the MAC Project.          | [🔗 LinkedIn](https://www.linkedin.com/in/amirkhan)   | [🔗 GitHub](https://github.com/amirkhan) |
-
-## 🤝 Connect With Us
+## 🤝 [Connect With Us](https://mac-project.ai/contact)
 
 - **LinkedIn Group**: [Join our LinkedIn Group](https://lnkd.in/gW3eZrbF)
 - **YouTube Playlist**: [Subscribe to our YouTube Playlist](https://www.youtube.com/watch?v=M2WdsXceFSc&list=PLz4dNaMPHvpEwXovTuNtW4L11ngBE7ZmA)
