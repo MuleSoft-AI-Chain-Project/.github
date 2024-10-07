@@ -21,6 +21,7 @@ Welcome to **MuleSoft AI Chain (MAC) Project** - your gateway to integrating adv
 | **[MAC Vectors Connector](https://github.com/MuleChain-Project/mulechain-vectors)** | The MAC Vectors connector for connecting to Vector Databases. |
 | **[MAC AWS Bedrock](https://github.com/MuleSoft-AI-Chain-Project/mac-aws-bedrock)** | Static agent for handling AI operations. |
 | **[MAC Whisperer](https://github.com/MuleSoft-AI-Chain-Project/mac-whisperer)** | Next.js-based agent for advanced AI functionalities. |
+| **[MAC WebCrawler]((https://github.com/MuleSoft-AI-Chain-Project/mac-web-crawler))** | Next.js-based agent for advanced AI functionalities. |
 | **[MAC Example Applications](https://github.com/MuleChain-Project/example-mule-apps)** | Example MuleSoft applications |
 
 ## About Us
