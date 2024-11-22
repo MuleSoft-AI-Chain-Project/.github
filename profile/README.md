@@ -17,7 +17,7 @@ Welcome to **MuleSoft AI Chain (MAC) Project** - your gateway to integrating adv
 | Link | Description |
 |------------|-------------|
 | **[MuleSoft AI Chain Connector](https://github.com/MuleChain-Project/mulechain-ai-connector)** | The MuleSoft AI Chain connector for integrating LangChain4j capabilities into MuleSoft. |
-| **[MAC Inference Connector](https://github.com/MuleSoft-AI-Chain-Project/mule-inference-connector)** | The MAC Vectors connector for integrating LLM Inference APIs into MuleSoft. |
+| **[MAC Inference Connector](https://github.com/MuleSoft-AI-Chain-Project/mule-inference-connector)** | The MAC Inference connector for integrating LLM Inference APIs into MuleSoft. |
 | **[MAC Vectors Connector](https://github.com/MuleChain-Project/mulechain-vectors)** | The MAC Vectors connector for connecting to Vector Databases. |
 | **[MAC Whisperer](https://github.com/MuleSoft-AI-Chain-Project/mac-whisperer)** | MAC Whisperer Repository |
 | **[MAC WebCrawler](https://github.com/MuleSoft-AI-Chain-Project/mac-web-crawler)** | MAC WebCrawler Repository |
