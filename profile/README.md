@@ -14,16 +14,16 @@ Welcome to **MuleSoft AI Chain (MAC) Project** - your gateway to integrating adv
 
 ## Our Main Repositories
 
-| Link | Description |
-|------------|-------------|
-| **[MuleSoft AI Chain Connector](https://github.com/MuleChain-Project/mulechain-ai-connector)** | The MuleSoft AI Chain connector for integrating LangChain4j capabilities into MuleSoft. |
-| **[MAC Inference Connector](https://github.com/MuleSoft-AI-Chain-Project/mule-inference-connector)** | The MAC Inference connector for integrating LLM Inference APIs into MuleSoft. |
-| **[MuleSoft Vectors Connector](https://github.com/MuleChain-Project/mulechain-vectors)** | The MAC Vectors connector for connecting to Vector Databases. |
-| **[MAC Whisperer](https://github.com/MuleSoft-AI-Chain-Project/mac-whisperer)** | MAC Whisperer Repository |
-| **[MAC WebCrawler](https://github.com/MuleSoft-AI-Chain-Project/mac-web-crawler)** | MAC WebCrawler Repository |
-| **[Amazon Bedrock](https://github.com/MuleSoft-AI-Chain-Project/mac-aws-bedrock)** | Amazon Bedrock Connector |
-| **[Einstein Connector](https://github.com/MuleChain-Project/mulechain-einstein1-connector)** | The MAC Einstein AI connector for integrating Salesforce Einstein Trust Layer and Models capabilities into MuleSoft. |
-| **[MAC Example Applications](https://github.com/MuleChain-Project/example-mule-apps)** | Example MuleSoft applications |
+| Name | Description | Links |
+|------------|-------------|-------------|
+| **MuleSoft AI Chain Connector** | The MuleSoft AI Chain connector for integrating LangChain4j capabilities into MuleSoft. | [![github-repo(https://img.shields.io/badge/github-master-blue)](https://img.shields.io/badge/github-master-blue)](https://github.com/MuleChain-Project/mulechain-ai-connector)
+| **MAC Inference Connector** | The MAC Inference connector for integrating LLM Inference APIs into MuleSoft. | [![github-repo(https://img.shields.io/badge/github-master-blue)](https://img.shields.io/badge/github-master-blue)](https://github.com/MuleSoft-AI-Chain-Project/mule-inference-connector)
+| **MuleSoft Vectors Connector** | The MAC Vectors connector for connecting to Vector Databases. | [![Maven Central](https://img.shields.io/maven-central/v/io.github.mulesoft-ai-chain-project/mule4-vectors-connector)](https://central.sonatype.com/artifact/io.github.mulesoft-ai-chain-project/mule4-vectors-connector/overview) [![github-repo(https://img.shields.io/badge/github-master-blue)](https://img.shields.io/badge/github-master-blue)](https://github.com/MuleSoft-AI-Chain-Project/mule-vectors-connector)
+| **MAC Whisperer** | MAC Whisperer Repository | [![github-repo](https://img.shields.io/badge/github-master-blue)](https://github.com/MuleSoft-AI-Chain-Project/mac-whisperer)
+| **MAC WebCrawler** | MAC WebCrawler Repository | [![github-repo](https://img.shields.io/badge/github-master-blue)](https://github.com/MuleSoft-AI-Chain-Project/mac-web-crawler)
+| **Amazon Bedrock** | Amazon Bedrock Connector | [![github-repo](https://img.shields.io/badge/github-master-blue)](https://github.com/MuleSoft-AI-Chain-Project/mac-aws-bedrock)
+| **Einstein Connector** | The MAC Einstein AI connector for integrating Salesforce Einstein Trust Layer and Models capabilities into MuleSoft. | [![github-repo](https://img.shields.io/badge/github-master-blue)](https://github.com/MuleChain-Project/mulechain-einstein1-connector)
+| **MAC Example Applications** | Example MuleSoft applications | [![github-repo](https://img.shields.io/badge/github-master-blue)](https://github.com/MuleChain-Project/example-mule-apps)
 
 ## About Us
 
