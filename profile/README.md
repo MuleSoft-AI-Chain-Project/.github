@@ -15,7 +15,7 @@ Welcome to **MuleSoft AI Chain (MAC) Project** - your gateway to integrating adv
 ## Our Main Repositories
 [![github-repo](https://img.shields.io/badge/maven--central-io.github.mulesoft--ai--chain--project-orange)](https://central.sonatype.com/namespace/io.github.mulesoft-ai-chain-project)
 
-| Name | Description | Links |
+| Name | Description | Links <img width=300/>|
 |------------|-------------|-------------|
 | <img src="https://github.com/MuleSoft-AI-Chain-Project/mule-ai-chain-connector/raw/master/icon/icon.svg" alt="drawing" width="25"/> **MuleSoft AI Chain Connector** | The MuleSoft AI Chain connector for integrating LangChain4j capabilities into MuleSoft. | [![Maven Central](https://img.shields.io/maven-central/v/io.github.mulesoft-ai-chain-project/mule4-aichain-connector)](https://central.sonatype.com/artifact/io.github.mulesoft-ai-chain-project/mule4-aichain-connector/overview) <br>[![github-repo](https://img.shields.io/badge/github-master-darkgreen)](https://github.com/MuleChain-Project/mulechain-ai-connector) <br> [![docs](https://img.shields.io/badge/docs-getting--started-lightgray)](https://mac-project.ai/docs/mulechain-ai/getting-started)
 | <img src="https://github.com/MuleSoft-AI-Chain-Project/mule-inference-connector/blob/master/icon/icon.svg" alt="drawing" width="25"/> **MuleSoft Inference Connector** | The MuleSoft Inference connector for integrating LLM Inference APIs into MuleSoft. | [![github-repo(https://img.shields.io/badge/github-master-darkgreen)](https://img.shields.io/badge/github-master-darkgreen)](https://github.com/MuleSoft-AI-Chain-Project/mule-inference-connector)<br> [![docs](https://img.shields.io/badge/docs-getting--started-lightgray)](https://mac-project.ai/docs/mac-inference/getting-started)
