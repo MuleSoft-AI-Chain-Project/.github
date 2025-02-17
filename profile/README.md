@@ -8,7 +8,7 @@ Welcome to **MuleSoft AI Chain (MAC) Project** - your gateway to integrating adv
 
 <br>
 
-[![Badge License]][License]
+![GitHub License](https://img.shields.io/github/license/MuleSoft-AI-Chain-Project/.github)
 
 </div>
 
